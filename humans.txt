@@ -1,0 +1,14 @@
+/* TEAM */
+	Andrey Saksonov
+	Contact: saksonov.andrey [at] gmail.com
+	Twitter: @suxonff
+	From: Voronezh, Russia
+
+/* THANKS */
+	Veronika Strokova
+	Twitter: @viisna
+	From: Voronezh, Russia
+
+/* SITE */
+	Updated: 15.07.2015
+	Language: English

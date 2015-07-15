@@ -1,3 +1,3 @@
 # README #
 
-http://saksonov.me
+https://saksonov.me by Andrey Saksonov
