@@ -10,7 +10,7 @@ form input[type="email"],
 form input[type="password"],
 form select,
 form textarea {
-    -ms-behavior: url("assets/js/ie/PIE.htc");
+    -ms-behavior: url("assets/scripts/ie/PIE.htc");
 }
 
 input[type="button"],
@@ -18,7 +18,7 @@ input[type="submit"],
 input[type="reset"],
 button,
 .button {
-    -ms-behavior: url("assets/js/ie/PIE.htc");
+    -ms-behavior: url("assets/scripts/ie/PIE.htc");
 }
 
 #nav ul li a {
@@ -35,5 +35,5 @@ button,
 
 #main > section.cover {
     background-position: auto;
-    -ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+    -ms-behavior: url("assets/scripts/ie/backgroundsize.min.htc");
 }
