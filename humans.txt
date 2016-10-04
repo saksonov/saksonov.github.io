@@ -1,7 +1,7 @@
 /* TEAM */
 	Andrey Saksonov
-	Contact: saksonov.andrey [at] gmail.com
-	Twitter: @suxonff
+	Contact: andrey@saksonov.me
+	Twitter: @suxonoff
 	From: Voronezh, Russia
 
 /* THANKS */
