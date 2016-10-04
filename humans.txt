@@ -10,5 +10,5 @@
 	From: Voronezh, Russia
 
 /* SITE */
-	Updated: 15.07.2015
+	Updated: 04.10.2016
 	Language: English
