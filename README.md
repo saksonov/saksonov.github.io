@@ -1,4 +1,4 @@
-# saksonov.me-html5up #
+# saksonov.github.io #
 
 https://saksonov.me
 by Andrey Saksonov
