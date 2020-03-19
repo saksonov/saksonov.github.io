@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/andreysaksonov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://saksonov.me
+  * I am andreysaksonov (https://keybase.io/andreysaksonov) on keybase.
+  * I have a public key with fingerprint 585B B733 08F4 4786 EE03  94E5 DE72 0735 D1E8 2B84
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c6aa66c1d4fcf4f53ee58ca558add7804de3e7039d6950569245e94b3c48ba010a",
+      "fingerprint": "585bb73308f44786ee0394e5de720735d1e82b84",
+      "host": "keybase.io",
+      "key_id": "de720735d1e82b84",
+      "kid": "0101408e58a8974e9c48028a91c798bb1b69873546ca31261e0745ce93f2aca0f6710a",
+      "uid": "1da3c8375e5ec8b0aa4f4917ea1eff19",
+      "username": "andreysaksonov"
+    },
+    "merkle_root": {
+      "ctime": 1584649424,
+      "hash_meta": "8a6ac6e764087cc396ecb12ceb4aaa9cabc85a71c939dba1750410a1a61d7b1d",
+      "seqno": 15510329
+    },
+    "revoke": {
+      "sig_ids": [
+        "a6e6afaa12bfcbed3c979fad5a19ac84e217c8158add341e489c958b9c0c3f260f"
+      ]
+    },
+    "service": {
+      "hostname": "saksonov.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1584649438,
+  "expire_in": 157680000,
+  "prev": "9ab43326e6a5b068b1e36599b781f5898ee005f29caa28df02466161c740b074",
+  "seqno": 63,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMLoAnicbVNbaFxFGN5ozNothRQfvKbIMVFaY5w5Z67BJ1Fb6gUf9KFNdJmZ85/N
+yWb3bM/ZbBrj2gZtwYgiVLzEqg9W+iCNEYnRBq0mNQpSL1gUozTxoRBSUcEq1pbq
+nLVBEOdlmHO+7/u//5t/jq67OJNrOhFn6ZfLNz7W9Onsw4OZB5PjJ0YcHfnDTveI
+U4TGBgM+JNV8MfSdbgdhFxmmFGMG+yQwAQmoB0CFUZQK5ftcIOKDBxx50meSIsqk
+SyhIoj1DhFYII+V0OkFYLkBcicNy1cpSQbXmnodEQAgXDMDSCVAfuIu4R30MwtWC
+WGJflKQMa06rBLrCyH6zh3zD3v/gV30jTJCwRpWQnIC0XpArlMSGS6E11kwKSyTM
+KA+7DAPihBqQXuAqo1DA+D++Bxty2FeeER6nQMEIjZQiAZGYg8IQBFimwATisiqB
+RauyH8NwoopJVI5qTr3TKUFcHIB8HEXVNGJTDVMgpoIwIolLbJsq6cuXoKosXyim
+DAPObAfcGE8yMBq7BjRRSkmjtBFUcWykzVwrzCki1i1WDPtcY9+6SWBHOUorUIw8
+V1oLMdSiIqTVk7Bg00uc7h5HMWAqUAq7OjAafM9ILgPlU4WlMoKAi7kRuHHTHsFA
+hDSSCi0NMjYphgLngXpaLa6FpiGeXteFGFYD6LKnTqcSR9XIRAP2R1+1Wkm601yq
+w5UUOQQ6f0Ejr8Oyb2fFMmoQJ2FUtl1Y5H8i80SnAzsrYQz5MEVQzgSyK60DNSsp
+lSae56b9UY2Y0Bg8RqXUXOCACinsyCEauDZN5Qo/QC5hDDM7HgRpOwv/Zsg861MV
+0obCQllVB2Nw6rMf9DZnmnKZlksuSh9RJremdfVpfVbM/tWTPfXJtnN1+X72moOj
+P7pT5vsfppvd00NXdH2Tqf8xfmih/0D/+G/JPHp337HLJ9d+vS2Cjv3hppGNU+Mr
+H0+1vPnSSqEwl0R3zQ/edN3VbfNH1y6/PNfzc/vGs8/eedvbJ2+fePGO9aVXdsxs
+2HLm6fPTt1S+6Ljn0U1dwdh9P71w/tzj27PLo8FofXFpyw3f/rq7dfv6W/fv408+
+v7Pi37zQ1ranY+ajS7+ie39fd3ADbZ1onx269r2W2as+PPTI5Jp3Xu+794mx717t
+3XX3kbljm9/484gaembszJ6Hti5OHi4Vmq+//2T7Yu/pePrs4spbrx3PLeUOP7d7
+4qkr927u79m1cCocv+yXsaVoZuvnfwNUK4qi
+=5bmR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andreysaksonov
+
+==================================================================
